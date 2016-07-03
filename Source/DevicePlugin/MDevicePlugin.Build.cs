@@ -18,6 +18,7 @@ namespace UnrealBuildTool.Rules
 
 		public MDevicePlugin(TargetInfo Target)
 		{
+
 			PublicIncludePaths.AddRange(
 				new string[]    {
                                     "../DevicePlugin/Public",
